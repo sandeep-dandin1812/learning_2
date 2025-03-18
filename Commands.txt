@@ -1,0 +1,7 @@
+checking the packages downloaded in linux 
+
+rpm -qa 
+
+for specifc packages
+
+rpm -qa | grep -i iftop
