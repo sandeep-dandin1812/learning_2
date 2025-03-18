@@ -5,3 +5,6 @@ rpm -qa
 for specifc packages
 
 rpm -qa | grep -i iftop
+
+rpm -qa | grep -i nethogs
+
