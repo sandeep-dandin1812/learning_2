@@ -12,3 +12,5 @@ Nethogs and iftop are tools to monitor Network Throughput and it.
 
 Ping and Netstat
 
+netcat to check ports are open 
+
